@@ -1,2 +1,4 @@
 # Skeets-Bash-Config
-A modular Bash configuration and alias toolkit combining personal workflow tools with a plugin-based system.
+
+## 🔹 About This Project
+Personal Bash configuration toolkit with modular plugins, custom aliases, and workflow tools designed to enhance everyday Linux usage.
