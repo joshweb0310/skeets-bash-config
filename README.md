@@ -13,6 +13,7 @@ Clean folder structure for easy customization
 Optional GUI support planned for future versions
 
 📁 Project Structure
+
 skeets-bash-config/
 │
 ├── bin/
