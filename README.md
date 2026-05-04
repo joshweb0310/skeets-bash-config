@@ -4,6 +4,7 @@
 Personal Bash configuration toolkit with modular plugins, custom aliases, and workflow tools designed to enhance everyday Linux usage.
 
 🔧 Features
+
 Modular plugin system for loading tools, aliases, and functions
 Personal alias collection for faster command‑line work
 System info utilities (uptime, memory, disk, network, etc.)
@@ -89,5 +90,3 @@ Add alias import/export
 Add backup/restore for .bashrc
 Add system monitoring plugin
 Add color themes for terminal output
-
-
