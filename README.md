@@ -1,2 +1,2 @@
 # Skeets-Bash-Config
-A simple python3 tkinter GUI application to create and manage bash aliases on Debian
+A modular Bash configuration and alias toolkit combining personal workflow tools with a plugin-based system.
